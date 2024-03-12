@@ -1,0 +1,1 @@
+This directory contains code for linear regression alogorithm which is a type of a supervised learning alogrithm
