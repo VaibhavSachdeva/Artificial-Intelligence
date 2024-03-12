@@ -1,1 +1,9 @@
 This directory contains code for neural network
+P1 - Basic neuron 3 inputs
+P2 - Basic Neuron Layer
+P3 - Dot Product
+P4 - Layers and Object
+P5 - ReLU Activation
+P6 - Softmax Activation
+P7 - Categorical Cross Entropy Loss
+P8 - Categorical Cross Entropy Applied
